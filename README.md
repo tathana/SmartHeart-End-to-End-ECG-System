@@ -14,7 +14,7 @@ Implementation details are maintained in separate repositories.
 ### 🧠 Core Capstone System
 - **SmartHeart_Care**  
   Main capstone implementation including system logic, backend design, and integration plan  
-  👉 https://github.com/tathana/SmartHeart_Care
+  👉 https://github.com/tathana/SmartHeart-Care-App
 
 ### 📊 Baseline & Model Experiments
 - **smartheart-ecg-analysis-test**  
